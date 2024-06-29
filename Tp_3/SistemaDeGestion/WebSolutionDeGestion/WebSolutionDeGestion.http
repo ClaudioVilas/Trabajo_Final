@@ -1,0 +1,6 @@
+@WebSolutionDeGestion_HostAddress = http://localhost:5274
+
+GET {{WebSolutionDeGestion_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
